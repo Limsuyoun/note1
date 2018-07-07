@@ -1,4 +1,2 @@
-# note1
-test-file
-hello? 
-dfdfesfse
+# note
+Nice to meet you. This repository is created to manage my schedule.
